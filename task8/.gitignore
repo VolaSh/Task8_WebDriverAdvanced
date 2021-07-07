@@ -1,0 +1,8 @@
+*.db
+*.log
+/target
+/bin
+node_modules
+mochawesome-report
+.nyc_output
+coverage
